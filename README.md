@@ -6,7 +6,7 @@
 ✅ **System Design & Scalable Architectures**  
 
 🌱 I’m currently learning:  
-🔹 **Advanced Backend Development** (Node.js, Express.js, NestJS)  
+🔹 **Advanced Backend Development** (Node.js, Express.js)  
 🔹 **System Design & High-Performance APIs**  
 🔹 **Scalability, Microservices & Distributed Systems**  
 
