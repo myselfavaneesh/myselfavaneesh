@@ -16,7 +16,7 @@
 🔹 **Databases & Performance Optimization**  
 
 ⚡ Fun fact:  
-I love solving backend challenges, optimizing APIs, and scaling applications!  
+🔹**I love solving backend challenges, optimizing APIs, and scaling applications!**  
 
 ---
 
