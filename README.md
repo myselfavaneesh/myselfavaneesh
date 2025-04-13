@@ -40,11 +40,6 @@
 
 ---
 
-### ✍️ Dev Quote:  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iavaneeshjaiswal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iavaneeshjaiswal&theme=dark&hide_border=false)<br/>
@@ -52,5 +47,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iavaneeshjaiswal&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
+### ✍️ Dev Quote:  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
 
