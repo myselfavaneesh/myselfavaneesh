@@ -1,55 +1,44 @@
-# 💫 About Me:  
-👋 Hey, I’m **Avaneesh Jaiswal** – A **Backend Developer** passionate about building **scalable, high-performance applications**.  
+# 👋 Hi, I'm Avaneesh (AJ)  
 
-👯 I’m looking to collaborate on:  
-✅ **Backend-heavy projects** (APIs, authentication, real-time apps)  
-✅ **System Design & Scalable Architectures**  
+### 💻 Java Backend Developer | 🎥 Content Creator  
 
-🌱 I’m currently learning:  
-🔹 **Advanced Backend Development** (Node.js, Express.js)  
-🔹 **System Design & High-Performance APIs**  
-🔹 **Scalability, Microservices & Distributed Systems**  
-
-💬 Ask me about:  
-🔹 **JavaScript, Node.js, Express.js**  
-🔹 **REST APIs, WebSockets, GraphQL**  
-🔹 **Databases & Performance Optimization**  
-
-⚡ Fun fact:  
-🔹**I love solving backend challenges, optimizing APIs, and scaling applications!**  
+Welcome to my GitHub! I'm passionate about **Backend Development**, **Java**, and **DSA mastery**. I believe in **learning by building** and sharing my journey through content creation.  
 
 ---
 
-## 🌐 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avaneeshjaiswal) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/iavaneeshjaiswal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@basskaraj](https://www.youtube.com/@urban_yodha))  
+## 🔥 About Me  
+- 🌱 Currently mastering **Java**, and **Backend Development**  
+- 🎯 Goal: **Become Backend Developer** in 2025  
+- 🎮 Gamer at heart, but work comes first  
 
 ---
 
-# 💻 Tech Stack:  
-### 🚀 **Backend & API Development**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  
-
-### 🗄️ **Databases & Storage**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
-
-### 🛠️ **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-### 🔒 **Security & Authentication**  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OAuth](https://img.shields.io/badge/OAuth-2.0-%2300A4CC.svg?style=for-the-badge&logo=oauth)  
+## 🛠️ Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iavaneeshjaiswal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iavaneeshjaiswal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iavaneeshjaiswal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=iavaneeshjaiswal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### ✍️ Dev Quote:  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## 📈 GitHub Stats  
+![Avaneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfavaneesh&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfavaneesh&layout=compact&theme=tokyonight)  
 
 ---
 
+## 🌟 Featured Projects  
+- 🎫 [**Ticket Booking System**](https://github.com/thisisavaneesh/Ticket-Booking-Java-Project)  
+  *A Java-based console project with user authentication and seat management.*  
+
+- 🛍️ **E-Commerce Application** *(In Progress)*  
+  *Full-stack app with product listing, cart, and payment integration.*  
+
+---
+
+## 📬 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avaneeshjaiswal)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myselfavaneesh)  
+
+---
+
+**✨ Learning by building — that’s the real code.**  
+
+![](https://komarev.com/ghpvc/?username=myselfavaneesh&style=flat-square&color=blue)
+****
