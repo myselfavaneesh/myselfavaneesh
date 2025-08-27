@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avaneesh (AJ)  
 
-### 💻 Java Backend Developer | 🎥 Content Creator  
+### 💻 Java Backend Developer
 
 Welcome to my GitHub! I'm passionate about **Backend Development**, **Java**, and **DSA mastery**. I believe in **learning by building** and sharing my journey through content creation.  
 
