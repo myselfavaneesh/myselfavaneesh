@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm passionate about **Backend Development**, **Java**, an
 - 🎫 [**Ticket Booking System**](https://github.com/thisisavaneesh/Ticket-Booking-Java-Project)  
   *A Java-based console project with user authentication and seat management.*  
 
-- 🛍️ [**E-Commerce Application**](https://github.com/myselfavaneesh/E-com) *(In Progress)*  
+- 🛍️ [**E-Commerce Application**](https://github.com/myselfavaneesh/E-com) 
   *Full-stack app with product listing, cart, and payment integration.*  
 
 ---
